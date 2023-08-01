@@ -31,8 +31,8 @@ Cooking. Traveling. Sports. Teaching. Pokémon. Whatever. :joy:
 This (small) repository is published under the terms of the [MIT license](http://knowgaurav.mit-license.org/) (file [LICENSE.txt](LICENSE.txt)).
 © [Gaurav Singh](https://GitHub.com/knowgaurav), 2023.
 
-[![Maintenance](https://img.shields.io/badge/Maintenu%3F-oui-green.svg)](https://GitHub.com/knowgaurav/ama/graphs/commit-activity)
-[![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/knowgaurav/ama)
+[![Maintenance](https://img.shields.io/badge/Maintenu%3F-oui-green.svg)](https://gitHub.com/knowgaurav/ama/graphs/commit-activity)
+[![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://gitHub.com/knowgaurav/ama)
 
 [![ForTheBadge built-with-swag](http://ForTheBadge.com/images/badges/built-with-swag.svg)](https://GitHub.com/Naereen/)
 
